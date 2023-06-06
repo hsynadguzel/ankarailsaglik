@@ -37539,7 +37539,7 @@ gq(a){return a.length}}
 A.JB.prototype={}
 A.ul.prototype={}
 A.Fr.prototype={
-O(a){return new A.vg(B.By,"Flutter Demo",A.alH(null,A.as_(B.ac,B.i),!0),!1,null)}}
+O(a){return new A.vg(B.By,"Ek1 - Bilgi Formu",A.alH(null,A.as_(B.ac,B.i),!0),!1,null)}}
 A.uk.prototype={
 ai(){var s,r,q=null
 $.op()
